@@ -1,1 +1,1 @@
-# Desenvolvendo_um_recomendador_de_filmes_com_JavaScript-
+# Desenvolvendo um recomendador de filmes com JavaScript
